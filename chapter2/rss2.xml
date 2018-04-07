@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2018</copyright>
+ <lastBuildDate>Sat, 07 Apr 2018 22:52:00 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2018年4月6日　Canonicalの製品担当VPが退職，Google Cloudへ ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201804/06</link>
+  <description>Ubuntu開発チームでリーダー的な役割を果たしてきたCanonicalのプロダクト部門VP ダスティン・カークランドが4月4日，Canonicalを退職し，Google Cloudのプロダクトマネージャに就任することを自身のブログで発表した。</description>
+  <pubDate>Fri, 06 Apr 2018 18:33:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201804/06</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>MTDDC Meetup HOKKAIDO 2018，6月9日に北海道・札幌で開催 ── インフォメーション</title>
+  <link>http://gihyo.jp/news/info/2018/04/0601</link>
+  <description>4年ぶり2回目となる北海道開催として，「MTDDC Meetup HOKKAIDO 2018」が6月9日に開催されることになった。</description>
+  <pubDate>Fri, 06 Apr 2018 18:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/info">インフォメーション</category>
+  <guid>http://gihyo.jp/news/info/2018/04/0601</guid> 
+  <author>馮富久</author>
+ </item>
+ <item>
+  <title>大規模データを扱うための実践的知識を大公開「CyberAgent Data Engineering &amp; Data Analysis Workshop #4 ～春の機械学習祭り～」レポート ── レポート</title>
+  <link>http://gihyo.jp/news/report/2018/04/0501</link>
+  <description>サイバーエージェントでは，大規模データを効果的に収集・蓄積・活用するための知見を共有する勉強会を行っています。第4弾となる今回は，機械学習がテーマとなりました。本稿ではその模様をレポートします。</description>
+  <pubDate>Fri, 06 Apr 2018 11:50:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2018/04/0501</guid> 
+  <author>角田孝昭</author>
+ </item>
+ <item>
+  <title>2018年4月6日号　bionicのFinal Beta, Spectre/Meltdown対策さらにさらにその後・4月上旬版 ── Ubuntu Weekly Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/ubuntu-topics/201804/06</link>
+  <description>bionicの開発がFinal Betaフェーズに突入しました。</description>
+  <pubDate>Fri, 06 Apr 2018 10:27:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/ubuntu-topics/201804/06</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>現場で求められる技術とは？ ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2018/0021</link>
+  <description>IoT（Internet of Things）は，ビジネス用語としても注目されるにしたがって，デバイスや通信，クラウドがさらに身近に使いやすく，低価格化することで，すでに多くの業種／業態で利用され始めています。</description>
+  <pubDate>Fri, 06 Apr 2018 09:30:30 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2018/0021</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>今更聞けない？ クラウドのポイントを押さえよう ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2018/0020</link>
+  <description>一昔前までWebシステムのインフラといえば，ハードウェアの選定・調達，そしてOSやミドルウェアの構築までを自前で行うのは当たり前のことでした。</description>
+  <pubDate>Fri, 06 Apr 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2018/0020</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>2018年4月5日　モジュラー化に再挑戦した「Fedora 28」ベータ版が登場，正式リリースは5月8日予定 ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201804/05</link>
+  <description>Fedoraプロジェクトは4月3日（米国時間），「Fedora 28 Beta」のリリースを発表した。</description>
+  <pubDate>Thu, 05 Apr 2018 16:23:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201804/05</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第11回　営業をやるとエンジニアライフに絶対にプラスになる ── エンジニアと経営のクロスオーバー</title>
+  <link>http://gihyo.jp/lifestyle/serial/01/engineer-x-manage/0011</link>
+  <description>今回は，エンジニアは営業が苦手，という内容です。「そんなのあたりまえ」と思うかもしれませんが，営業といっても，営業職ではなく，営業行為という意味です。</description>
+  <pubDate>Thu, 05 Apr 2018 09:45:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/serial/01/engineer-x-manage">エンジニアと経営のクロスオーバー</category>
+  <guid>http://gihyo.jp/lifestyle/serial/01/engineer-x-manage/0011</guid> 
+  <author>山崎徳之</author>
+ </item>
+ <item>
+  <title>2018年4月第1週　Chrome OS搭載のタブレット「Chromebook Tab 10」が発売，未認証端末でGAppsが使えない日が来る？！ ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201804/05</link>
+  <description>2018年4月第1週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 05 Apr 2018 09:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201804/05</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2018年4月第1週号 1位は，ユーザーの時間を奪わないためのウェブデザインのヒント，気になるネタは，「Alexa，子供服はどこで取り扱っている？」 池袋PARCOで「Amazon Echo」が館内案内 ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201804/05</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2018年3月26日～4月1日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 05 Apr 2018 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201804/05</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>無料の動画編集ソフトAviUtlで手軽に実況動画を作ってみよう ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2018/0019</link>
+  <description>昨今，iPhone，Androidといったスマートフォン（スマホ）に搭載されているカメラの高性能化により誰でも手軽に動画の撮影を行えるようになりました。</description>
+  <pubDate>Thu, 05 Apr 2018 09:30:30 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2018/0019</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>クラウド時代のサーバ技術者に求められるスキルとは ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2018/0018</link>
+  <description>サーバ／インフラをめぐる技術トレンドはこの10年で大きく変化しています。</description>
+  <pubDate>Thu, 05 Apr 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2018/0018</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>2018年4月4日　Linux 4.16がリリース ―Jailhouseハイパーバイザのサポート，usercopyホワイトリストなど ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201804/04</link>
+  <description>Linus Torvaldsは4月1日（米国時間），「Linux 4.16」の正式リリースを発表した。</description>
+  <pubDate>Wed, 04 Apr 2018 14:03:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201804/04</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第514回　Intel RealSense D435でバーチャルユーチューバーの深みを味わう ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0514</link>
+  <description>いま流行りのバーチャルユーチューバーには，モーションキャプチャーするためにIntel RealSenseのようなデプスカメラで撮影してる人もいます。今回はこのデプスカメラを使って，遠近感を得ることにしましょう。</description>
+  <pubDate>Wed, 04 Apr 2018 09:46:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0514</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>時系列分析とは？ ～気温や株価を予想するための考え方～ ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2018/0017</link>
+  <description>時系列分析とは時間的に得られる系列的なデータに対する分析のことですが，まずは実際のデータを元にその感触を確かめてみましょう。</description>
+  <pubDate>Wed, 04 Apr 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2018/0017</guid> 
+  <author>萩原淳一郎</author>
+ </item>
+ <item>
+  <title>【イベント開催連動企画】社会に浸透するIoT ～エンジニアが主人公になる時代がやってきた ── 一般記事</title>
+  <link>http://gihyo.jp/dev/column/01/iot/2018/iot-engeneer</link>
+  <description>IoTは一過性のトレンドではありません。今後，私たちの生活にも浸透し，IoTエンジニアの方たちの活躍の場も広がると予想されます。ここでは，高度化して増え続けるIoTシステムの状況を紹介します。</description>
+  <pubDate>Wed, 04 Apr 2018 09:23:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column">一般記事</category>
+  <guid>http://gihyo.jp/dev/column/01/iot/2018/iot-engeneer</guid> 
+  <author>小泉耕二，片山暁雄</author>
+ </item>
+ <item>
+  <title>第68回　MySQLにおけるデータの比較 ── MySQL道普請便り</title>
+  <link>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0068</link>
+  <description>MySQLではレプリケーション機能を使って容易にデータベースを複製することができますが，構築の際にバイナリーログのポジションを間違ったり，スレーブ側の設定が間違っていたりすると，違うデータベースができあがってしまう可能性があります。</description>
+  <pubDate>Tue, 03 Apr 2018 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0068</guid> 
+  <author>深町日出海</author>
+ </item>
+ <item>
+  <title>はじめよう！ EDIUS Proで動画編集 ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2018/0016</link>
+  <description>最近はデジタルビデオカメラが手ごろな価格で購入できるようになり，またスマホやタブレットに搭載されているカメラも高性能になって，気軽に動画を撮影できるようになりました。</description>
+  <pubDate>Tue, 03 Apr 2018 09:30:30 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2018/0016</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>スマートスピーカーがやってきた！ ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2018/0015</link>
+  <description>昨年冬，LINE，Google，Amazonの各社からスマートスピーカー（AIスピーカー）が発売されました。</description>
+  <pubDate>Tue, 03 Apr 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2018/0015</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>「U-22プログラミング・コンテスト2018」詳細発表，公式サイトオープン ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2018/04/0201</link>
+  <description>=U-22プログラミング・コンテスト実行委員会は，2018年度プログラミング・コンテストの応募要領を公開するとともに，2018年版公式Webサイトを4月2日にオープンした。</description>
+  <pubDate>Mon, 02 Apr 2018 16:10:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2018/04/0201</guid> 
+  <author>技術評論社</author>
+ </item>
+</channel>
+</rss>
